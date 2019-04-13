@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">XID</string>
+    <string name="edit_message">enter a message</string>
+    <string name="button_send">send button</string>
+    <string name="ImageIcon">ImageIconUse</string>
+    <string name="profile_details">Profile Details</string>
+    <string name="bank_details">Bank Details</string>
+    <string name="price_plan">Price Plan</string>
+    <string name="change_password">Chnage Password</string>
+    <string name="fingerprint_add_change">Add/Change Fingerprint</string>
+    <string name="question_answers">Questions?</string>
+    <string name="contact_support">Contact Support</string>
+    <string name="username">Username</string>
+</resources>
